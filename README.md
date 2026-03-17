@@ -53,6 +53,7 @@ sql
 
 docs
    data_model.png
+   data_architecture.png
 
 README.md
 ```
