@@ -93,7 +93,7 @@ Dimensão de tempo para análise de vendas por período.
 
 ### Diagrama do Modelo de Dados
 
-![Modelo de Dados](docs/data_model.png)
+![Modelo de Dados](docs)
 
 ---
 
